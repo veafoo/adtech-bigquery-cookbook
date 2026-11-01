@@ -1,0 +1,60 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "click_id": "c1",
+    "conversion_value": "100.0",
+    "event_timestamp": "2021-01-31 00:01:00",
+    "transaction_id": "T1"
+   },
+   {
+    "click_id": "c2",
+    "conversion_value": "50.0",
+    "event_timestamp": "2021-01-31 10:00:00",
+    "transaction_id": "T2"
+   },
+   {
+    "click_id": "c4",
+    "conversion_value": "30.0",
+    "event_timestamp": "2021-01-31 11:00:00",
+    "transaction_id": null
+   },
+   {
+    "click_id": "c6",
+    "conversion_value": "20.0",
+    "event_timestamp": "2021-01-31 13:00:00",
+    "transaction_id": ""
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "click_id": "c2",
+    "conversion_value": "50.0",
+    "event_timestamp": "2021-01-31 10:00:00",
+    "transaction_id": "T2"
+   },
+   {
+    "click_id": "c4",
+    "conversion_value": "30.0",
+    "event_timestamp": "2021-01-31 11:00:00",
+    "transaction_id": null
+   },
+   {
+    "click_id": "c5",
+    "conversion_value": "40.0",
+    "event_timestamp": "2021-01-31 12:00:00",
+    "transaction_id": null
+   },
+   {
+    "click_id": "c6",
+    "conversion_value": "20.0",
+    "event_timestamp": "2021-01-31 13:00:00",
+    "transaction_id": ""
+   }
+  ]
+ }
+}

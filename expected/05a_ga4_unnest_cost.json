@@ -1,0 +1,22 @@
+{
+ "scalar_subqueries": {
+  "bytes": 39994623,
+  "rows": [
+   {
+    "output_rows": "173",
+    "rows_with_gclid": "0",
+    "rows_with_page_url": "173"
+   }
+  ]
+ },
+ "cross_join_unnest": {
+  "bytes": 39994623,
+  "rows": [
+   {
+    "output_rows": "2460",
+    "rows_with_gclid": "0",
+    "rows_with_page_url": "173"
+   }
+  ]
+ }
+}

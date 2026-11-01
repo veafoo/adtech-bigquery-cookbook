@@ -1,0 +1,24 @@
+{
+ "naive": {
+  "bytes": 1430419227,
+  "rows": [
+   {
+    "mean_label": "1.3406",
+    "sum_label": "362165.0",
+    "users": "270154",
+    "zero_label_users": "266088"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 1430419227,
+  "rows": [
+   {
+    "mean_label": "2.4346",
+    "sum_label": "13388.0",
+    "users": "5499",
+    "zero_label_users": "5368"
+   }
+  ]
+ }
+}

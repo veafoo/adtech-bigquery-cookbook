@@ -1,0 +1,180 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_date": "2021-01-31",
+    "expected_conversions": "10.29",
+    "total_conversions": "2",
+    "tracking_status": "CRITICAL ALERT: 50% DROP"
+   },
+   {
+    "event_date": "2021-01-30",
+    "expected_conversions": "10.0",
+    "total_conversions": "12",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-29",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-28",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-26",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-25",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-24",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-23",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-22",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-21",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-20",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-19",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-18",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-17",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_date": "2021-01-30",
+    "expected_conversions": "8.57",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-29",
+    "expected_conversions": "8.57",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-28",
+    "expected_conversions": "8.57",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-27",
+    "expected_conversions": "10.0",
+    "total_conversions": "0",
+    "tracking_status": "CRITICAL ALERT: 50% DROP"
+   },
+   {
+    "event_date": "2021-01-26",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-25",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-24",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-23",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-22",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-21",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-20",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-19",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-18",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   },
+   {
+    "event_date": "2021-01-17",
+    "expected_conversions": "10.0",
+    "total_conversions": "10",
+    "tracking_status": "HEALTHY"
+   }
+  ]
+ }
+}

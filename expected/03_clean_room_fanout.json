@@ -1,0 +1,27 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "campaign_id": "C1",
+    "total_revenue": "350.0",
+    "unique_converters": "2"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "campaign_id": "C1",
+    "influenced_revenue": "150.0",
+    "unique_converters": "2"
+   },
+   {
+    "campaign_id": "C2",
+    "influenced_revenue": "70.0",
+    "unique_converters": "1"
+   }
+  ]
+ }
+}

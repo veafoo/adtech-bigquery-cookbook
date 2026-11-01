@@ -1,0 +1,50 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "ad_user_data": "GRANTED",
+    "conversion_date_time": "2021-01-31 08:00:00",
+    "conversion_value": "160.0",
+    "currency_code": "EUR",
+    "wbraid": "g1"
+   },
+   {
+    "ad_user_data": "GRANTED",
+    "conversion_date_time": "2021-01-31 08:00:00",
+    "conversion_value": "80.0",
+    "currency_code": "EUR",
+    "wbraid": "w1"
+   },
+   {
+    "ad_user_data": "GRANTED",
+    "conversion_date_time": "2021-01-31 09:00:00",
+    "conversion_value": "40.0",
+    "currency_code": "EUR",
+    "wbraid": "g1"
+   },
+   {
+    "ad_user_data": "GRANTED",
+    "conversion_date_time": "2021-01-31 09:00:00",
+    "conversion_value": "-40.0",
+    "currency_code": "EUR",
+    "wbraid": "w1"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "ad_user_data": "GRANTED",
+    "conversion_date_time": "2021-01-31 09:00:00+01:00",
+    "conversion_value": "80.0",
+    "currency_code": "EUR",
+    "gbraid": null,
+    "gclid": null,
+    "order_id": "S1",
+    "wbraid": "w1"
+   }
+  ]
+ }
+}

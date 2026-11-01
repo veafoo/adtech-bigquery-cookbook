@@ -1,0 +1,38 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "dma_status": "Missing Consent",
+    "gcd_string": null,
+    "timestamp": "2021-01-31 10:00:00",
+    "wbraid": null
+   },
+   {
+    "dma_status": "Missing Consent",
+    "gcd_string": null,
+    "timestamp": "2021-01-31 11:00:00",
+    "wbraid": null
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "coupon": "WINTER",
+    "gcd_string": "13t3t3t3t5l1",
+    "gcs_string": "G111",
+    "timestamp": "2021-01-31 10:00:00",
+    "wbraid": "WB123"
+   },
+   {
+    "coupon": null,
+    "gcd_string": "13p3p2p2p5l1",
+    "gcs_string": "G100",
+    "timestamp": "2021-01-31 11:00:00",
+    "wbraid": null
+   }
+  ]
+ }
+}

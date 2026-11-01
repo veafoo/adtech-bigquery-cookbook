@@ -1,0 +1,12 @@
+{
+ "compare": {
+  "bytes": 5670393,
+  "rows": [
+   {
+    "custom_30min_sessions": "2824",
+    "ga4_session_ids_alone": "2812",
+    "ga4_sessions_user_and_id": "2849"
+   }
+  ]
+ }
+}

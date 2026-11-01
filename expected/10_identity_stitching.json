@@ -1,0 +1,72 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_timestamp": "2021-01-31 09:00:00",
+    "original_id": "A",
+    "stitched_pseudo_id": "B"
+   },
+   {
+    "event_timestamp": "2021-01-31 09:05:00",
+    "original_id": null,
+    "stitched_pseudo_id": "B"
+   },
+   {
+    "event_timestamp": "2021-01-31 09:10:00",
+    "original_id": "A",
+    "stitched_pseudo_id": "B"
+   },
+   {
+    "event_timestamp": "2021-01-31 10:00:00",
+    "original_id": null,
+    "stitched_pseudo_id": null
+   },
+   {
+    "event_timestamp": "2021-01-31 15:00:00",
+    "original_id": null,
+    "stitched_pseudo_id": "B"
+   },
+   {
+    "event_timestamp": "2021-01-31 15:05:00",
+    "original_id": "B",
+    "stitched_pseudo_id": "B"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_timestamp": "2021-01-31 09:00:00",
+    "original_id": "A",
+    "stitched_pseudo_id": "A"
+   },
+   {
+    "event_timestamp": "2021-01-31 09:05:00",
+    "original_id": null,
+    "stitched_pseudo_id": "A"
+   },
+   {
+    "event_timestamp": "2021-01-31 09:10:00",
+    "original_id": "A",
+    "stitched_pseudo_id": "A"
+   },
+   {
+    "event_timestamp": "2021-01-31 10:00:00",
+    "original_id": null,
+    "stitched_pseudo_id": null
+   },
+   {
+    "event_timestamp": "2021-01-31 15:00:00",
+    "original_id": null,
+    "stitched_pseudo_id": "B"
+   },
+   {
+    "event_timestamp": "2021-01-31 15:05:00",
+    "original_id": "B",
+    "stitched_pseudo_id": "B"
+   }
+  ]
+ }
+}

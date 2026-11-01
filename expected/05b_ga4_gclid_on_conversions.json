@@ -1,0 +1,32 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_name": "purchase",
+    "gclid": null,
+    "user_pseudo_id": "u1"
+   },
+   {
+    "event_name": "purchase",
+    "gclid": null,
+    "user_pseudo_id": "u2"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "event_name": "purchase",
+    "session_gclid": "GCLID-A",
+    "user_pseudo_id": "u1"
+   },
+   {
+    "event_name": "purchase",
+    "session_gclid": null,
+    "user_pseudo_id": "u2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "hll": {
+  "bytes": 131761313,
+  "rows": [
+   {
+    "approx_unique_users": "94784",
+    "month": "1",
+    "year": "2021"
+   },
+   {
+    "approx_unique_users": "105082",
+    "month": "12",
+    "year": "2020"
+   },
+   {
+    "approx_unique_users": "79827",
+    "month": "11",
+    "year": "2020"
+   }
+  ]
+ },
+ "exact": {
+  "bytes": 131761313,
+  "rows": [
+   {
+    "exact_unique_users": "94790",
+    "month": "1",
+    "year": "2021"
+   },
+   {
+    "exact_unique_users": "104315",
+    "month": "12",
+    "year": "2020"
+   },
+   {
+    "exact_unique_users": "79421",
+    "month": "11",
+    "year": "2020"
+   }
+  ]
+ }
+}

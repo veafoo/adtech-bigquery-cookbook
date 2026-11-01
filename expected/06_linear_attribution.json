@@ -1,0 +1,44 @@
+{
+ "naive": {
+  "bytes": 0,
+  "rows": [
+   {
+    "campaign_name": null,
+    "linear_attributed_revenue": "37.5"
+   },
+   {
+    "campaign_name": "C0",
+    "linear_attributed_revenue": "37.5"
+   },
+   {
+    "campaign_name": "C1",
+    "linear_attributed_revenue": "37.5"
+   },
+   {
+    "campaign_name": "C2",
+    "linear_attributed_revenue": "37.5"
+   },
+   {
+    "campaign_name": "C3",
+    "linear_attributed_revenue": "37.5"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 0,
+  "rows": [
+   {
+    "campaign_name": "C1",
+    "linear_attributed_revenue": "116.67"
+   },
+   {
+    "campaign_name": "C2",
+    "linear_attributed_revenue": "116.67"
+   },
+   {
+    "campaign_name": "C3",
+    "linear_attributed_revenue": "66.67"
+   }
+  ]
+ }
+}

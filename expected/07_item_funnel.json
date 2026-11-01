@@ -1,0 +1,40 @@
+{
+ "naive": {
+  "bytes": 316852462,
+  "rows": [
+   {
+    "items": "425",
+    "max_rate": "1.0",
+    "min_rate": "0.0041",
+    "negative_rates": "0",
+    "sum_adds": "657013",
+    "sum_purchases": "3152"
+   }
+  ]
+ },
+ "fanout": {
+  "bytes": 1137232843,
+  "rows": [
+   {
+    "add_rows": "667426",
+    "joined_rows": "668719",
+    "joined_rows_with_purchase": "4703",
+    "max_rows_one_user_item": "240",
+    "purchase_rows": "16003"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 237936224,
+  "rows": [
+   {
+    "items": "357",
+    "max_rate": "1.0",
+    "min_rate": "0.6",
+    "negative_rates": "0",
+    "sum_adds": "252312",
+    "sum_purchases": "1295"
+   }
+  ]
+ }
+}

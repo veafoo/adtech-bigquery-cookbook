@@ -1,0 +1,29 @@
+{
+ "naive": {
+  "bytes": 252513108,
+  "rows": [
+   {
+    "avg_minutes_to_purchase": "8.812",
+    "pairs": "869"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 277526167,
+  "rows": [
+   {
+    "avg_minutes_to_purchase": "8.014",
+    "pairs": "867"
+   }
+  ]
+ },
+ "shared_session_ids": {
+  "bytes": 252281482,
+  "rows": [
+   {
+    "session_ids": "114882",
+    "shared_by_several_users": "3162"
+   }
+  ]
+ }
+}
