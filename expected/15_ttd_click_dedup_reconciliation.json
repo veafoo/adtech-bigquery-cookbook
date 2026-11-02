@@ -1,0 +1,58 @@
+{
+ "naive": {
+  "bytes": 305127,
+  "rows": [
+   {
+    "campaign_id": "ttdcmp1",
+    "clicks": "220",
+    "ctr": "0.0201",
+    "impressions": "10952"
+   },
+   {
+    "campaign_id": "ttdcmp2",
+    "clicks": "343",
+    "ctr": "0.0315",
+    "impressions": "10882"
+   },
+   {
+    "campaign_id": "ttdcmp3",
+    "clicks": "455",
+    "ctr": "0.0412",
+    "impressions": "11051"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 1614819,
+  "rows": [
+   {
+    "campaign_id": "ttdcmp1",
+    "clicks": "219",
+    "ctr": "0.02",
+    "impressions": "10952"
+   },
+   {
+    "campaign_id": "ttdcmp2",
+    "clicks": "332",
+    "ctr": "0.0305",
+    "impressions": "10882"
+   },
+   {
+    "campaign_id": "ttdcmp3",
+    "clicks": "447",
+    "ctr": "0.0404",
+    "impressions": "11051"
+   }
+  ]
+ },
+ "dup_check": {
+  "bytes": 38684,
+  "rows": [
+   {
+    "click_rows": "1018",
+    "duplicate_rows": "20",
+    "unique_clicks": "998"
+   }
+  ]
+ }
+}

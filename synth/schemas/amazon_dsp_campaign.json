@@ -1,0 +1,47 @@
+[
+ {
+  "name": "date",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "orderId",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "orderName",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "orderCurrency",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "impressions",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "clickThroughs",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "totalCost",
+  "type": "NUMERIC",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "purchases14d",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "sales14d",
+  "type": "NUMERIC",
+  "mode": "NULLABLE"
+ }
+]

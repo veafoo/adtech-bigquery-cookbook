@@ -1,0 +1,77 @@
+[
+ {
+  "name": "LogEntryTime",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ImpressionId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "PartnerId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdvertiserId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "CampaignId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdGroupId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "CreativeId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdFormat",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "Site",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "DeviceType",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "CountryLong",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdvertiserCostInUSDollars",
+  "type": "NUMERIC",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdvertiserCurrency",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdvertiserCurrencyExchangeRateFromUSD",
+  "type": "NUMERIC",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ProcessedTime",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

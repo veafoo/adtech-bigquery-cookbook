@@ -1,0 +1,82 @@
+[
+ {
+  "name": "LogEntryTime",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ClickRedirectId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "IPAddress",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ReferrerUrl",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "RedirectUrl",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "CampaignId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ChannelId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "AdvertiserId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "DisplayImpressionId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "Keyword",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "KeywordId",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "MatchType",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "DistributionNetwork",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "RawUrl",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ProcessedTime",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "DeviceType",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

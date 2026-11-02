@@ -1,0 +1,62 @@
+[
+ {
+  "name": "dv360_auction_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_request_time",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_advertiser_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_insertion_order_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_line_item_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_campaign_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_creative_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_country_code",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_device_type",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_media_cost_usd",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_media_cost_partner_currency",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dv360_media_cost_advertiser_currency",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

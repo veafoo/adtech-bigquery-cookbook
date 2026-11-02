@@ -1,0 +1,37 @@
+[
+ {
+  "name": "advertiser_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "campaign_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "stat_time_day",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "spend",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "impressions",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "clicks",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "currency",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

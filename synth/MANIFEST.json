@@ -1,0 +1,50 @@
+{
+ "seed": 42,
+ "days": 28,
+ "start": "2026-10-01",
+ "files": {
+  "google_ads_campaign_stats.ndjson": {
+   "sha256": "3f069c8136573b566cf5a35f0fdce74e2642b8d3a604c4c89928216471029e17",
+   "rows": 84
+  },
+  "dv360_impressions.ndjson": {
+   "sha256": "7350a162d66199b3ff9f848e6a814da421e1803fff18a79b7ef4f8c173c33aca",
+   "rows": 34702
+  },
+  "meta_insights.ndjson": {
+   "sha256": "24291cb0d32b2ab7b5622eaa589877065f9a64006cbc25c482a0b9fed9579eac",
+   "rows": 84
+  },
+  "tiktok_integrated_report.ndjson": {
+   "sha256": "83aa4ba4c4de1940279ba7243ea1b804cd23a9e44823cda9075491f1a976004d",
+   "rows": 84
+  },
+  "amazon_dsp_campaign.ndjson": {
+   "sha256": "59eb19ce6a4b76c80b1c27ac13d5cdf2abb57a6675a0e1529aed73fdabc709e5",
+   "rows": 84
+  },
+  "ttd_impressions.ndjson": {
+   "sha256": "de14f20822a040d977e3a7d50dd64335029838b03de04d9c2601d99dd74cf0c5",
+   "rows": 32885
+  },
+  "ttd_clicks.ndjson": {
+   "sha256": "c91e9f5a067ff7d921beab8f0f6984fdb8bfe5c0516629eec39fd3c5535c43d7",
+   "rows": 1018
+  }
+ },
+ "traps": {
+  "ttd_clicks_unique": 998,
+  "ttd_clicks_duplicate_rows": 20,
+  "meta_empty_spend_date": "2026-10-27",
+  "meta_empty_spend_rows": 3
+ },
+ "timezones": {
+  "google_ads_campaign_stats": "UTC",
+  "dv360_impressions": "UTC",
+  "meta_insights": "Europe/Paris",
+  "tiktok_integrated_report": "Europe/Paris",
+  "amazon_dsp_campaign": "UTC",
+  "ttd_impressions": "UTC",
+  "ttd_clicks": "UTC"
+ }
+}

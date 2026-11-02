@@ -1,0 +1,2175 @@
+{
+ "naive": {
+  "bytes": 1805358,
+  "rows": [
+   {
+    "channel": "tiktok",
+    "clicks": "5874",
+    "date": null,
+    "impressions": "487116",
+    "spend_eur": "1969.4"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "74",
+    "date": "2026-10-01",
+    "impressions": "12256",
+    "spend_eur": "58.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-01",
+    "impressions": "1313",
+    "spend_eur": "7.268713627E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "241",
+    "date": "2026-10-01",
+    "impressions": "7511",
+    "spend_eur": "1.2212E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "182",
+    "date": "2026-10-01",
+    "impressions": "11072",
+    "spend_eur": "78.04"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "37",
+    "date": "2026-10-01",
+    "impressions": "1154",
+    "spend_eur": "6.29"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-02",
+    "impressions": "12065",
+    "spend_eur": "41.41"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-02",
+    "impressions": "1367",
+    "spend_eur": "7.414976093E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "258",
+    "date": "2026-10-02",
+    "impressions": "7716",
+    "spend_eur": "1.81E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "188",
+    "date": "2026-10-02",
+    "impressions": "11373",
+    "spend_eur": "74.23"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "42",
+    "date": "2026-10-02",
+    "impressions": "1189",
+    "spend_eur": "6.66"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-03",
+    "impressions": "9268",
+    "spend_eur": "53.77"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-03",
+    "impressions": "1089",
+    "spend_eur": "5.974001813E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "294",
+    "date": "2026-10-03",
+    "impressions": "7673",
+    "spend_eur": "2.1733E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "206",
+    "date": "2026-10-03",
+    "impressions": "13341",
+    "spend_eur": "72.73"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "25",
+    "date": "2026-10-03",
+    "impressions": "1013",
+    "spend_eur": "5.56"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "33",
+    "date": "2026-10-04",
+    "impressions": "6557",
+    "spend_eur": "29.78"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-04",
+    "impressions": "1275",
+    "spend_eur": "7.090818704E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "310",
+    "date": "2026-10-04",
+    "impressions": "8128",
+    "spend_eur": "1.6479E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "202",
+    "date": "2026-10-04",
+    "impressions": "9522",
+    "spend_eur": "52.63"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "49",
+    "date": "2026-10-04",
+    "impressions": "1275",
+    "spend_eur": "7.0"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "49",
+    "date": "2026-10-05",
+    "impressions": "7694",
+    "spend_eur": "32.0"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-05",
+    "impressions": "1387",
+    "spend_eur": "7.544497101E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "254",
+    "date": "2026-10-05",
+    "impressions": "7636",
+    "spend_eur": "1.4504E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "180",
+    "date": "2026-10-05",
+    "impressions": "13142",
+    "spend_eur": "78.93"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "41",
+    "date": "2026-10-05",
+    "impressions": "1276",
+    "spend_eur": "7.0"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "76",
+    "date": "2026-10-06",
+    "impressions": "10880",
+    "spend_eur": "65.78"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-06",
+    "impressions": "1170",
+    "spend_eur": "6.571109841E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "349",
+    "date": "2026-10-06",
+    "impressions": "8378",
+    "spend_eur": "2.5656E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "184",
+    "date": "2026-10-06",
+    "impressions": "10441",
+    "spend_eur": "60.51"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "31",
+    "date": "2026-10-06",
+    "impressions": "1064",
+    "spend_eur": "5.75"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "63",
+    "date": "2026-10-07",
+    "impressions": "10887",
+    "spend_eur": "37.17"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-07",
+    "impressions": "1015",
+    "spend_eur": "5.558766205E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "308",
+    "date": "2026-10-07",
+    "impressions": "7957",
+    "spend_eur": "1.6701E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "170",
+    "date": "2026-10-07",
+    "impressions": "11788",
+    "spend_eur": "64.85"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "41",
+    "date": "2026-10-07",
+    "impressions": "1295",
+    "spend_eur": "6.98"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "41",
+    "date": "2026-10-08",
+    "impressions": "8024",
+    "spend_eur": "29.23"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-08",
+    "impressions": "1459",
+    "spend_eur": "8.064315651E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "267",
+    "date": "2026-10-08",
+    "impressions": "7198",
+    "spend_eur": "1.4928E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "197",
+    "date": "2026-10-08",
+    "impressions": "12138",
+    "spend_eur": "85.28"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "39",
+    "date": "2026-10-08",
+    "impressions": "1249",
+    "spend_eur": "6.88"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "74",
+    "date": "2026-10-09",
+    "impressions": "10620",
+    "spend_eur": "57.86"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-09",
+    "impressions": "1166",
+    "spend_eur": "6.468681845E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "298",
+    "date": "2026-10-09",
+    "impressions": "7192",
+    "spend_eur": "2.4018E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "101",
+    "date": "2026-10-09",
+    "impressions": "9457",
+    "spend_eur": "66.65"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "27",
+    "date": "2026-10-09",
+    "impressions": "991",
+    "spend_eur": "5.54"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "71",
+    "date": "2026-10-10",
+    "impressions": "9843",
+    "spend_eur": "56.41"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-10",
+    "impressions": "978",
+    "spend_eur": "5.410153026E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "369",
+    "date": "2026-10-10",
+    "impressions": "9874",
+    "spend_eur": "2.3206E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "230",
+    "date": "2026-10-10",
+    "impressions": "12622",
+    "spend_eur": "80.96"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "30",
+    "date": "2026-10-10",
+    "impressions": "1081",
+    "spend_eur": "6.05"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-11",
+    "impressions": "10974",
+    "spend_eur": "52.21"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-11",
+    "impressions": "1373",
+    "spend_eur": "7.473443338E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "268",
+    "date": "2026-10-11",
+    "impressions": "6172",
+    "spend_eur": "1.4648E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "140",
+    "date": "2026-10-11",
+    "impressions": "7909",
+    "spend_eur": "44.96"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "35",
+    "date": "2026-10-11",
+    "impressions": "1127",
+    "spend_eur": "6.2"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "51",
+    "date": "2026-10-12",
+    "impressions": "9643",
+    "spend_eur": "51.2"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-12",
+    "impressions": "1248",
+    "spend_eur": "6.793046909E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "397",
+    "date": "2026-10-12",
+    "impressions": "8535",
+    "spend_eur": "2.1261E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "181",
+    "date": "2026-10-12",
+    "impressions": "11595",
+    "spend_eur": "77.51"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "42",
+    "date": "2026-10-12",
+    "impressions": "1237",
+    "spend_eur": "6.75"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "37",
+    "date": "2026-10-13",
+    "impressions": "8072",
+    "spend_eur": "26.81"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-13",
+    "impressions": "1030",
+    "spend_eur": "5.691879726E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "287",
+    "date": "2026-10-13",
+    "impressions": "7682",
+    "spend_eur": "1.6569E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "287",
+    "date": "2026-10-13",
+    "impressions": "15426",
+    "spend_eur": "98.63"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "28",
+    "date": "2026-10-13",
+    "impressions": "1250",
+    "spend_eur": "6.89"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "47",
+    "date": "2026-10-14",
+    "impressions": "6771",
+    "spend_eur": "38.14"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-14",
+    "impressions": "1152",
+    "spend_eur": "6.407211283E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "353",
+    "date": "2026-10-14",
+    "impressions": "8200",
+    "spend_eur": "1.8596E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "168",
+    "date": "2026-10-14",
+    "impressions": "7983",
+    "spend_eur": "61.6"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "43",
+    "date": "2026-10-14",
+    "impressions": "1181",
+    "spend_eur": "6.59"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "44",
+    "date": "2026-10-15",
+    "impressions": "8072",
+    "spend_eur": "41.0"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-15",
+    "impressions": "1429",
+    "spend_eur": "7.839863785E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "286",
+    "date": "2026-10-15",
+    "impressions": "7370",
+    "spend_eur": "2.1498E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "256",
+    "date": "2026-10-15",
+    "impressions": "15192",
+    "spend_eur": "99.37"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "31",
+    "date": "2026-10-15",
+    "impressions": "1166",
+    "spend_eur": "6.47"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-16",
+    "impressions": "9824",
+    "spend_eur": "44.07"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-16",
+    "impressions": "1179",
+    "spend_eur": "6.480979359E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "331",
+    "date": "2026-10-16",
+    "impressions": "8973",
+    "spend_eur": "1.8843E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "253",
+    "date": "2026-10-16",
+    "impressions": "12629",
+    "spend_eur": "97.58"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "34",
+    "date": "2026-10-16",
+    "impressions": "1127",
+    "spend_eur": "6.16"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "55",
+    "date": "2026-10-17",
+    "impressions": "8965",
+    "spend_eur": "43.45"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-17",
+    "impressions": "1313",
+    "spend_eur": "7.19651238E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "335",
+    "date": "2026-10-17",
+    "impressions": "8106",
+    "spend_eur": "1.7212E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "221",
+    "date": "2026-10-17",
+    "impressions": "12287",
+    "spend_eur": "80.66"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "46",
+    "date": "2026-10-17",
+    "impressions": "1254",
+    "spend_eur": "6.79"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "52",
+    "date": "2026-10-18",
+    "impressions": "7843",
+    "spend_eur": "40.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-18",
+    "impressions": "1238",
+    "spend_eur": "6.771168258E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "289",
+    "date": "2026-10-18",
+    "impressions": "7143",
+    "spend_eur": "1.6869E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "242",
+    "date": "2026-10-18",
+    "impressions": "12749",
+    "spend_eur": "81.67"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "32",
+    "date": "2026-10-18",
+    "impressions": "1133",
+    "spend_eur": "6.34"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-19",
+    "impressions": "10939",
+    "spend_eur": "54.16"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-19",
+    "impressions": "1151",
+    "spend_eur": "6.331188019E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "306",
+    "date": "2026-10-19",
+    "impressions": "9883",
+    "spend_eur": "1.6548E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "215",
+    "date": "2026-10-19",
+    "impressions": "14394",
+    "spend_eur": "115.29"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "34",
+    "date": "2026-10-19",
+    "impressions": "1133",
+    "spend_eur": "6.1"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "70",
+    "date": "2026-10-20",
+    "impressions": "10074",
+    "spend_eur": "49.5"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-20",
+    "impressions": "1358",
+    "spend_eur": "7.501955583E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "267",
+    "date": "2026-10-20",
+    "impressions": "8180",
+    "spend_eur": "1.1562E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "283",
+    "date": "2026-10-20",
+    "impressions": "13994",
+    "spend_eur": "108.46"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-20",
+    "impressions": "1296",
+    "spend_eur": "7.08"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "53",
+    "date": "2026-10-21",
+    "impressions": "9453",
+    "spend_eur": "42.37"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-21",
+    "impressions": "1391",
+    "spend_eur": "7.693114987E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "336",
+    "date": "2026-10-21",
+    "impressions": "8797",
+    "spend_eur": "2.1537E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "171",
+    "date": "2026-10-21",
+    "impressions": "10363",
+    "spend_eur": "85.41"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-21",
+    "impressions": "1190",
+    "spend_eur": "6.46"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "67",
+    "date": "2026-10-22",
+    "impressions": "12770",
+    "spend_eur": "41.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-22",
+    "impressions": "1142",
+    "spend_eur": "6.324182241E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "247",
+    "date": "2026-10-22",
+    "impressions": "6372",
+    "spend_eur": "1.7394E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "260",
+    "date": "2026-10-22",
+    "impressions": "13944",
+    "spend_eur": "84.31"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-22",
+    "impressions": "1140",
+    "spend_eur": "6.38"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "37",
+    "date": "2026-10-23",
+    "impressions": "7462",
+    "spend_eur": "24.45"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-23",
+    "impressions": "1463",
+    "spend_eur": "7.957632476E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "309",
+    "date": "2026-10-23",
+    "impressions": "8273",
+    "spend_eur": "2.3736E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "148",
+    "date": "2026-10-23",
+    "impressions": "10572",
+    "spend_eur": "70.23"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "28",
+    "date": "2026-10-23",
+    "impressions": "1133",
+    "spend_eur": "6.27"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "86",
+    "date": "2026-10-24",
+    "impressions": "12193",
+    "spend_eur": "59.75"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-24",
+    "impressions": "1181",
+    "spend_eur": "6.473370064E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "275",
+    "date": "2026-10-24",
+    "impressions": "7538",
+    "spend_eur": "1.3167E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "150",
+    "date": "2026-10-24",
+    "impressions": "12262",
+    "spend_eur": "81.85"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "38",
+    "date": "2026-10-24",
+    "impressions": "1283",
+    "spend_eur": "7.1"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "64",
+    "date": "2026-10-25",
+    "impressions": "11231",
+    "spend_eur": "69.76"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-25",
+    "impressions": "1153",
+    "spend_eur": "6.400286506E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "255",
+    "date": "2026-10-25",
+    "impressions": "8470",
+    "spend_eur": "1.1375E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "217",
+    "date": "2026-10-25",
+    "impressions": "14141",
+    "spend_eur": "97.25"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "37",
+    "date": "2026-10-25",
+    "impressions": "1110",
+    "spend_eur": "6.1"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "42",
+    "date": "2026-10-26",
+    "impressions": "9594",
+    "spend_eur": "41.79"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-26",
+    "impressions": "1331",
+    "spend_eur": "7.249828382E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "344",
+    "date": "2026-10-26",
+    "impressions": "9544",
+    "spend_eur": "1.2238E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "224",
+    "date": "2026-10-26",
+    "impressions": "10807",
+    "spend_eur": "75.17"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "39",
+    "date": "2026-10-26",
+    "impressions": "1246",
+    "spend_eur": "6.83"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "48",
+    "date": "2026-10-27",
+    "impressions": "8487",
+    "spend_eur": "39.49"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-27",
+    "impressions": "1082",
+    "spend_eur": "5.909515229E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "274",
+    "date": "2026-10-27",
+    "impressions": "7089",
+    "spend_eur": "1.6483E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "0",
+    "date": "2026-10-27",
+    "impressions": "0",
+    "spend_eur": null
+   },
+   {
+    "channel": "ttd",
+    "clicks": "34",
+    "date": "2026-10-27",
+    "impressions": "1222",
+    "spend_eur": "6.68"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "48",
+    "date": "2026-10-28",
+    "impressions": "9821",
+    "spend_eur": "31.75"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-28",
+    "impressions": "1269",
+    "spend_eur": "6.911704052E9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "303",
+    "date": "2026-10-28",
+    "impressions": "7477",
+    "spend_eur": "1.6527E8"
+   },
+   {
+    "channel": "meta",
+    "clicks": "177",
+    "date": "2026-10-28",
+    "impressions": "9553",
+    "spend_eur": "50.76"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "35",
+    "date": "2026-10-28",
+    "impressions": "1070",
+    "spend_eur": "5.89"
+   }
+  ]
+ },
+ "fixed": {
+  "bytes": 2391580,
+  "rows": [
+   {
+    "channel": "amazon_dsp",
+    "clicks": "74",
+    "date": "2026-10-01",
+    "impressions": "12256",
+    "spend_eur": "58.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-01",
+    "impressions": "1313",
+    "spend_eur": "6.81"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "241",
+    "date": "2026-10-01",
+    "impressions": "7511",
+    "spend_eur": "122.12"
+   },
+   {
+    "channel": "meta",
+    "clicks": "182",
+    "date": "2026-10-01",
+    "impressions": "11072",
+    "spend_eur": "78.04"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "240",
+    "date": "2026-10-01",
+    "impressions": "17530",
+    "spend_eur": "59.87"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "37",
+    "date": "2026-10-01",
+    "impressions": "1154",
+    "spend_eur": "5.9"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-02",
+    "impressions": "12065",
+    "spend_eur": "41.41"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-02",
+    "impressions": "1367",
+    "spend_eur": "6.77"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "258",
+    "date": "2026-10-02",
+    "impressions": "7716",
+    "spend_eur": "181"
+   },
+   {
+    "channel": "meta",
+    "clicks": "188",
+    "date": "2026-10-02",
+    "impressions": "11373",
+    "spend_eur": "74.23"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "126",
+    "date": "2026-10-02",
+    "impressions": "13604",
+    "spend_eur": "52.74"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-02",
+    "impressions": "1189",
+    "spend_eur": "6.08"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-03",
+    "impressions": "9268",
+    "spend_eur": "53.77"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-03",
+    "impressions": "1089",
+    "spend_eur": "5.45"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "294",
+    "date": "2026-10-03",
+    "impressions": "7673",
+    "spend_eur": "217.33"
+   },
+   {
+    "channel": "meta",
+    "clicks": "206",
+    "date": "2026-10-03",
+    "impressions": "13341",
+    "spend_eur": "72.73"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "227",
+    "date": "2026-10-03",
+    "impressions": "15773",
+    "spend_eur": "79.49"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "25",
+    "date": "2026-10-03",
+    "impressions": "1013",
+    "spend_eur": "5.07"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "33",
+    "date": "2026-10-04",
+    "impressions": "6557",
+    "spend_eur": "29.78"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-04",
+    "impressions": "1275",
+    "spend_eur": "6.66"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "310",
+    "date": "2026-10-04",
+    "impressions": "8128",
+    "spend_eur": "164.79"
+   },
+   {
+    "channel": "meta",
+    "clicks": "202",
+    "date": "2026-10-04",
+    "impressions": "9522",
+    "spend_eur": "52.63"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "233",
+    "date": "2026-10-04",
+    "impressions": "19025",
+    "spend_eur": "51.23"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "48",
+    "date": "2026-10-04",
+    "impressions": "1275",
+    "spend_eur": "6.58"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "49",
+    "date": "2026-10-05",
+    "impressions": "7694",
+    "spend_eur": "32"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-05",
+    "impressions": "1387",
+    "spend_eur": "7"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "254",
+    "date": "2026-10-05",
+    "impressions": "7636",
+    "spend_eur": "145.04"
+   },
+   {
+    "channel": "meta",
+    "clicks": "180",
+    "date": "2026-10-05",
+    "impressions": "13142",
+    "spend_eur": "78.93"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "137",
+    "date": "2026-10-05",
+    "impressions": "16288",
+    "spend_eur": "59.26"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-05",
+    "impressions": "1276",
+    "spend_eur": "6.49"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "76",
+    "date": "2026-10-06",
+    "impressions": "10880",
+    "spend_eur": "65.78"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-06",
+    "impressions": "1170",
+    "spend_eur": "6.08"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "349",
+    "date": "2026-10-06",
+    "impressions": "8378",
+    "spend_eur": "256.56"
+   },
+   {
+    "channel": "meta",
+    "clicks": "184",
+    "date": "2026-10-06",
+    "impressions": "10441",
+    "spend_eur": "60.51"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "199",
+    "date": "2026-10-06",
+    "impressions": "15516",
+    "spend_eur": "69.23"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "31",
+    "date": "2026-10-06",
+    "impressions": "1064",
+    "spend_eur": "5.32"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "63",
+    "date": "2026-10-07",
+    "impressions": "10887",
+    "spend_eur": "37.17"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-07",
+    "impressions": "1015",
+    "spend_eur": "5.21"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "308",
+    "date": "2026-10-07",
+    "impressions": "7957",
+    "spend_eur": "167.01"
+   },
+   {
+    "channel": "meta",
+    "clicks": "170",
+    "date": "2026-10-07",
+    "impressions": "11788",
+    "spend_eur": "64.85"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "170",
+    "date": "2026-10-07",
+    "impressions": "16990",
+    "spend_eur": "72.35"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-07",
+    "impressions": "1295",
+    "spend_eur": "6.54"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "41",
+    "date": "2026-10-08",
+    "impressions": "8024",
+    "spend_eur": "29.23"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-08",
+    "impressions": "1459",
+    "spend_eur": "7.27"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "267",
+    "date": "2026-10-08",
+    "impressions": "7198",
+    "spend_eur": "149.28"
+   },
+   {
+    "channel": "meta",
+    "clicks": "197",
+    "date": "2026-10-08",
+    "impressions": "12138",
+    "spend_eur": "85.28"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "205",
+    "date": "2026-10-08",
+    "impressions": "17194",
+    "spend_eur": "92.83"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "38",
+    "date": "2026-10-08",
+    "impressions": "1249",
+    "spend_eur": "6.21"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "74",
+    "date": "2026-10-09",
+    "impressions": "10620",
+    "spend_eur": "57.86"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-09",
+    "impressions": "1166",
+    "spend_eur": "6"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "298",
+    "date": "2026-10-09",
+    "impressions": "7192",
+    "spend_eur": "240.18"
+   },
+   {
+    "channel": "meta",
+    "clicks": "101",
+    "date": "2026-10-09",
+    "impressions": "9457",
+    "spend_eur": "66.65"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "255",
+    "date": "2026-10-09",
+    "impressions": "17888",
+    "spend_eur": "63.79"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "25",
+    "date": "2026-10-09",
+    "impressions": "991",
+    "spend_eur": "5.13"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "71",
+    "date": "2026-10-10",
+    "impressions": "9843",
+    "spend_eur": "56.41"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-10",
+    "impressions": "978",
+    "spend_eur": "4.87"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "369",
+    "date": "2026-10-10",
+    "impressions": "9874",
+    "spend_eur": "232.06"
+   },
+   {
+    "channel": "meta",
+    "clicks": "230",
+    "date": "2026-10-10",
+    "impressions": "12622",
+    "spend_eur": "80.96"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "252",
+    "date": "2026-10-10",
+    "impressions": "19271",
+    "spend_eur": "80.64"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "30",
+    "date": "2026-10-10",
+    "impressions": "1081",
+    "spend_eur": "5.45"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-11",
+    "impressions": "10974",
+    "spend_eur": "52.21"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-11",
+    "impressions": "1373",
+    "spend_eur": "7.02"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "268",
+    "date": "2026-10-11",
+    "impressions": "6172",
+    "spend_eur": "146.48"
+   },
+   {
+    "channel": "meta",
+    "clicks": "140",
+    "date": "2026-10-11",
+    "impressions": "7909",
+    "spend_eur": "44.96"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "259",
+    "date": "2026-10-11",
+    "impressions": "22498",
+    "spend_eur": "105.86"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "33",
+    "date": "2026-10-11",
+    "impressions": "1127",
+    "spend_eur": "5.83"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "51",
+    "date": "2026-10-12",
+    "impressions": "9643",
+    "spend_eur": "51.2"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-12",
+    "impressions": "1248",
+    "spend_eur": "6.22"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "397",
+    "date": "2026-10-12",
+    "impressions": "8535",
+    "spend_eur": "212.61"
+   },
+   {
+    "channel": "meta",
+    "clicks": "181",
+    "date": "2026-10-12",
+    "impressions": "11595",
+    "spend_eur": "77.51"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "222",
+    "date": "2026-10-12",
+    "impressions": "21569",
+    "spend_eur": "112.45"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "41",
+    "date": "2026-10-12",
+    "impressions": "1237",
+    "spend_eur": "6.18"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "37",
+    "date": "2026-10-13",
+    "impressions": "8072",
+    "spend_eur": "26.81"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-13",
+    "impressions": "1030",
+    "spend_eur": "5.28"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "287",
+    "date": "2026-10-13",
+    "impressions": "7682",
+    "spend_eur": "165.69"
+   },
+   {
+    "channel": "meta",
+    "clicks": "287",
+    "date": "2026-10-13",
+    "impressions": "15426",
+    "spend_eur": "98.63"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "191",
+    "date": "2026-10-13",
+    "impressions": "19934",
+    "spend_eur": "66.9"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "28",
+    "date": "2026-10-13",
+    "impressions": "1250",
+    "spend_eur": "6.38"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "47",
+    "date": "2026-10-14",
+    "impressions": "6771",
+    "spend_eur": "38.14"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-14",
+    "impressions": "1152",
+    "spend_eur": "5.84"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "353",
+    "date": "2026-10-14",
+    "impressions": "8200",
+    "spend_eur": "185.96"
+   },
+   {
+    "channel": "meta",
+    "clicks": "168",
+    "date": "2026-10-14",
+    "impressions": "7983",
+    "spend_eur": "61.6"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "207",
+    "date": "2026-10-14",
+    "impressions": "17650",
+    "spend_eur": "82.36"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "43",
+    "date": "2026-10-14",
+    "impressions": "1181",
+    "spend_eur": "6"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "44",
+    "date": "2026-10-15",
+    "impressions": "8072",
+    "spend_eur": "41"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-15",
+    "impressions": "1429",
+    "spend_eur": "7.09"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "286",
+    "date": "2026-10-15",
+    "impressions": "7370",
+    "spend_eur": "214.98"
+   },
+   {
+    "channel": "meta",
+    "clicks": "256",
+    "date": "2026-10-15",
+    "impressions": "15192",
+    "spend_eur": "99.37"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "133",
+    "date": "2026-10-15",
+    "impressions": "11986",
+    "spend_eur": "37.51"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "31",
+    "date": "2026-10-15",
+    "impressions": "1166",
+    "spend_eur": "5.85"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-16",
+    "impressions": "9824",
+    "spend_eur": "44.07"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-16",
+    "impressions": "1179",
+    "spend_eur": "5.87"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "331",
+    "date": "2026-10-16",
+    "impressions": "8973",
+    "spend_eur": "188.43"
+   },
+   {
+    "channel": "meta",
+    "clicks": "253",
+    "date": "2026-10-16",
+    "impressions": "12629",
+    "spend_eur": "97.58"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "266",
+    "date": "2026-10-16",
+    "impressions": "22552",
+    "spend_eur": "80.57"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "33",
+    "date": "2026-10-16",
+    "impressions": "1127",
+    "spend_eur": "5.58"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "55",
+    "date": "2026-10-17",
+    "impressions": "8965",
+    "spend_eur": "43.45"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-17",
+    "impressions": "1313",
+    "spend_eur": "6.62"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "335",
+    "date": "2026-10-17",
+    "impressions": "8106",
+    "spend_eur": "172.12"
+   },
+   {
+    "channel": "meta",
+    "clicks": "221",
+    "date": "2026-10-17",
+    "impressions": "12287",
+    "spend_eur": "80.66"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "112",
+    "date": "2026-10-17",
+    "impressions": "11771",
+    "spend_eur": "34.45"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "46",
+    "date": "2026-10-17",
+    "impressions": "1254",
+    "spend_eur": "6.24"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "52",
+    "date": "2026-10-18",
+    "impressions": "7843",
+    "spend_eur": "40.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-18",
+    "impressions": "1238",
+    "spend_eur": "6.18"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "289",
+    "date": "2026-10-18",
+    "impressions": "7143",
+    "spend_eur": "168.69"
+   },
+   {
+    "channel": "meta",
+    "clicks": "242",
+    "date": "2026-10-18",
+    "impressions": "12749",
+    "spend_eur": "81.67"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "232",
+    "date": "2026-10-18",
+    "impressions": "18426",
+    "spend_eur": "84.34"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "31",
+    "date": "2026-10-18",
+    "impressions": "1133",
+    "spend_eur": "5.79"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "59",
+    "date": "2026-10-19",
+    "impressions": "10939",
+    "spend_eur": "54.16"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-19",
+    "impressions": "1151",
+    "spend_eur": "5.88"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "306",
+    "date": "2026-10-19",
+    "impressions": "9883",
+    "spend_eur": "165.48"
+   },
+   {
+    "channel": "meta",
+    "clicks": "215",
+    "date": "2026-10-19",
+    "impressions": "14394",
+    "spend_eur": "115.29"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "197",
+    "date": "2026-10-19",
+    "impressions": "15510",
+    "spend_eur": "64.47"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "34",
+    "date": "2026-10-19",
+    "impressions": "1133",
+    "spend_eur": "5.66"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "70",
+    "date": "2026-10-20",
+    "impressions": "10074",
+    "spend_eur": "49.5"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-20",
+    "impressions": "1358",
+    "spend_eur": "6.94"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "267",
+    "date": "2026-10-20",
+    "impressions": "8180",
+    "spend_eur": "115.62"
+   },
+   {
+    "channel": "meta",
+    "clicks": "283",
+    "date": "2026-10-20",
+    "impressions": "13994",
+    "spend_eur": "108.46"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "300",
+    "date": "2026-10-20",
+    "impressions": "19667",
+    "spend_eur": "71.97"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-20",
+    "impressions": "1296",
+    "spend_eur": "6.55"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "53",
+    "date": "2026-10-21",
+    "impressions": "9453",
+    "spend_eur": "42.37"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-21",
+    "impressions": "1391",
+    "spend_eur": "7.21"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "336",
+    "date": "2026-10-21",
+    "impressions": "8797",
+    "spend_eur": "215.37"
+   },
+   {
+    "channel": "meta",
+    "clicks": "171",
+    "date": "2026-10-21",
+    "impressions": "10363",
+    "spend_eur": "85.41"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "225",
+    "date": "2026-10-21",
+    "impressions": "17291",
+    "spend_eur": "76.76"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "40",
+    "date": "2026-10-21",
+    "impressions": "1190",
+    "spend_eur": "6.06"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "67",
+    "date": "2026-10-22",
+    "impressions": "12770",
+    "spend_eur": "41.98"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-22",
+    "impressions": "1142",
+    "spend_eur": "5.77"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "247",
+    "date": "2026-10-22",
+    "impressions": "6372",
+    "spend_eur": "173.94"
+   },
+   {
+    "channel": "meta",
+    "clicks": "260",
+    "date": "2026-10-22",
+    "impressions": "13944",
+    "spend_eur": "84.31"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "253",
+    "date": "2026-10-22",
+    "impressions": "18108",
+    "spend_eur": "73.52"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "38",
+    "date": "2026-10-22",
+    "impressions": "1140",
+    "spend_eur": "5.82"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "37",
+    "date": "2026-10-23",
+    "impressions": "7462",
+    "spend_eur": "24.45"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-23",
+    "impressions": "1463",
+    "spend_eur": "7.26"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "309",
+    "date": "2026-10-23",
+    "impressions": "8273",
+    "spend_eur": "237.36"
+   },
+   {
+    "channel": "meta",
+    "clicks": "148",
+    "date": "2026-10-23",
+    "impressions": "10572",
+    "spend_eur": "70.23"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "183",
+    "date": "2026-10-23",
+    "impressions": "11503",
+    "spend_eur": "49.25"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "27",
+    "date": "2026-10-23",
+    "impressions": "1133",
+    "spend_eur": "5.72"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "86",
+    "date": "2026-10-24",
+    "impressions": "12193",
+    "spend_eur": "59.75"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-24",
+    "impressions": "1181",
+    "spend_eur": "5.9"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "275",
+    "date": "2026-10-24",
+    "impressions": "7538",
+    "spend_eur": "131.67"
+   },
+   {
+    "channel": "meta",
+    "clicks": "150",
+    "date": "2026-10-24",
+    "impressions": "12262",
+    "spend_eur": "81.85"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "282",
+    "date": "2026-10-24",
+    "impressions": "22565",
+    "spend_eur": "73.41"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "38",
+    "date": "2026-10-24",
+    "impressions": "1283",
+    "spend_eur": "6.46"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "64",
+    "date": "2026-10-25",
+    "impressions": "11231",
+    "spend_eur": "69.76"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-25",
+    "impressions": "1153",
+    "spend_eur": "5.8"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "255",
+    "date": "2026-10-25",
+    "impressions": "8470",
+    "spend_eur": "113.75"
+   },
+   {
+    "channel": "meta",
+    "clicks": "217",
+    "date": "2026-10-25",
+    "impressions": "14141",
+    "spend_eur": "97.25"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "178",
+    "date": "2026-10-25",
+    "impressions": "15886",
+    "spend_eur": "71.15"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "37",
+    "date": "2026-10-25",
+    "impressions": "1110",
+    "spend_eur": "5.52"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "42",
+    "date": "2026-10-26",
+    "impressions": "9594",
+    "spend_eur": "41.79"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-26",
+    "impressions": "1331",
+    "spend_eur": "6.56"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "344",
+    "date": "2026-10-26",
+    "impressions": "9544",
+    "spend_eur": "122.38"
+   },
+   {
+    "channel": "meta",
+    "clicks": "224",
+    "date": "2026-10-26",
+    "impressions": "10807",
+    "spend_eur": "75.17"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "117",
+    "date": "2026-10-26",
+    "impressions": "13407",
+    "spend_eur": "44.29"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "38",
+    "date": "2026-10-26",
+    "impressions": "1246",
+    "spend_eur": "6.18"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "48",
+    "date": "2026-10-27",
+    "impressions": "8487",
+    "spend_eur": "39.49"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-27",
+    "impressions": "1082",
+    "spend_eur": "5.33"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "274",
+    "date": "2026-10-27",
+    "impressions": "7089",
+    "spend_eur": "164.83"
+   },
+   {
+    "channel": "meta",
+    "clicks": "0",
+    "date": "2026-10-27",
+    "impressions": "0",
+    "spend_eur": "0"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "222",
+    "date": "2026-10-27",
+    "impressions": "16932",
+    "spend_eur": "72.19"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "33",
+    "date": "2026-10-27",
+    "impressions": "1222",
+    "spend_eur": "6.02"
+   },
+   {
+    "channel": "amazon_dsp",
+    "clicks": "48",
+    "date": "2026-10-28",
+    "impressions": "9821",
+    "spend_eur": "31.75"
+   },
+   {
+    "channel": "dv360",
+    "clicks": null,
+    "date": "2026-10-28",
+    "impressions": "1269",
+    "spend_eur": "6.46"
+   },
+   {
+    "channel": "google_ads",
+    "clicks": "303",
+    "date": "2026-10-28",
+    "impressions": "7477",
+    "spend_eur": "165.27"
+   },
+   {
+    "channel": "meta",
+    "clicks": "177",
+    "date": "2026-10-28",
+    "impressions": "9553",
+    "spend_eur": "50.76"
+   },
+   {
+    "channel": "tiktok",
+    "clicks": "251",
+    "date": "2026-10-28",
+    "impressions": "20782",
+    "spend_eur": "86.52"
+   },
+   {
+    "channel": "ttd",
+    "clicks": "33",
+    "date": "2026-10-28",
+    "impressions": "1070",
+    "spend_eur": "5.51"
+   }
+  ]
+ }
+}

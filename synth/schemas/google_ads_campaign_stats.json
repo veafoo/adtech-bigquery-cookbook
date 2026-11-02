@@ -1,0 +1,42 @@
+[
+ {
+  "name": "customer_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "campaign_id",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "segments_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "metrics_impressions",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "metrics_clicks",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "metrics_cost_micros",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "metrics_conversions",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "metrics_conversions_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ }
+]

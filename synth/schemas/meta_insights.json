@@ -1,0 +1,64 @@
+[
+ {
+  "name": "account_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "campaign_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "campaign_name",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "date_start",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "date_stop",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "impressions",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "clicks",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "spend",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "account_currency",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "actions",
+  "type": "RECORD",
+  "mode": "REPEATED",
+  "fields": [
+   {
+    "name": "action_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "value",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ }
+]

@@ -11,11 +11,13 @@ name the fixture tables as if they existed. `--print` shows the exact SQL sent.
 Usage:
   python3 run_cookbook.py --freeze            # run all, write expected/*.json
   python3 run_cookbook.py                     # run all, compare to expected/
-  python3 run_cookbook.py --only 01           # one recipe (prefix match)
+  python3 run_cookbook.py --only 01           # one recipe (prefix match); --only 14,15 for several
+  COOKBOOK_SYNTH_DATASET=<project>.<dataset> python3 run_cookbook.py --only 14,15
   python3 run_cookbook.py --print 01 fixed    # print the composed SQL
 """
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -28,6 +30,13 @@ MAX_BYTES = 2_000_000_000  # refuse any query that would scan more than 2 GB
 
 BLOCK_RE = re.compile(r"^-- @(fixture|query)\s*(\S*)\s*$", re.M)
 BYTES_RE = re.compile(r"process (\d+) bytes")
+
+# Recipes on the synthetic data (synth/) name their tables `@@SYNTH@@.<table>`; the placeholder
+# becomes the dataset in COOKBOOK_SYNTH_DATASET (<project>.<dataset>, loaded by synth/load.sh).
+# Without that variable those recipes are skipped, never failed.
+SYNTH_PLACEHOLDER = "@@SYNTH@@"
+SYNTH_ENV = "COOKBOOK_SYNTH_DATASET"
+SYNTH_DATASET_RE = re.compile(r"^[A-Za-z0-9_.:-]+$")
 
 
 def split_blocks(text):
@@ -89,9 +98,28 @@ def run_query(sql):
     return {"bytes": nbytes, "rows": json.loads(out) if out else []}
 
 
+def needs_synth(text):
+    return SYNTH_PLACEHOLDER in text
+
+
+def synth_dataset():
+    """The dataset from the environment, or None. A malformed value is an error, not a skip."""
+    value = os.environ.get(SYNTH_ENV, "").strip()
+    if not value:
+        return None
+    if not SYNTH_DATASET_RE.match(value):
+        raise ValueError(f"{SYNTH_ENV}={value!r} is not a <project>.<dataset> name")
+    return value
+
+
+def apply_synth(text, dataset):
+    return text.replace(SYNTH_PLACEHOLDER, dataset)
+
+
 def recipe_files(only=None):
     files = sorted(RECIPES.glob("*.sql"))
-    return [f for f in files if not only or f.name.startswith(only)]
+    prefixes = tuple(p for p in (only or "").split(",") if p)
+    return [f for f in files if not prefixes or f.name.startswith(prefixes)]
 
 
 def main(argv=None):
@@ -103,14 +131,24 @@ def main(argv=None):
 
     if a.print:
         f = recipe_files(a.print[0])[0]
-        fixture, queries = split_blocks(f.read_text())
+        text = f.read_text()
+        if needs_synth(text) and synth_dataset():
+            text = apply_synth(text, synth_dataset())
+        fixture, queries = split_blocks(text)
         print(compose(fixture, queries[a.print[1]]))
         return 0
 
     EXPECTED.mkdir(exist_ok=True)
     failures = 0
+    dataset = synth_dataset()
     for f in recipe_files(a.only):
-        fixture, queries = split_blocks(f.read_text())
+        text = f.read_text()
+        if needs_synth(text):
+            if not dataset:
+                print(f"SKIP {f.stem}: set {SYNTH_ENV}=<project>.<dataset> (load it with synth/load.sh)")
+                continue
+            text = apply_synth(text, dataset)
+        fixture, queries = split_blocks(text)
         results = {}
         for name, sql in queries.items():
             try:

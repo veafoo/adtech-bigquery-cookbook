@@ -1,0 +1,18 @@
+{
+ "_source": "Amazon Ads Reporting API v1 field pages, line 'Version 3 Reporting Name (DSP)', read 2026-11-01. Reporting API v3 shuts off after 2027-06-30; v1 is the replacement (POST /adsApi/v1/create/reports).",
+ "impressions": {"v1": ["metric.impressions"]},
+ "clickThroughs": {"v1": ["metric.clicks"], "note": "v1 overview: \"Click-throughs\" -> \"Clicks\"; its page prints v3 name \"clicks\""},
+ "totalCost": {"v1": ["metric.totalCost", "metric.totalCostConverted"]},
+ "totalFee": {"v1": ["metric.totalFees", "metric.totalFeesConverted"]},
+ "eCPM": {"v1": ["metric.cpm"]},
+ "CTR": {"v1": ["metric.ctr"], "note": "its page prints v3 name \"clickThroughRate\""},
+ "purchases14d": {"v1": ["metric.purchasesPromoted"], "note": "v1 page prints the v3 name as \"purchases\", without the 14d suffix"},
+ "purchasesClicks14d": {"v1": ["metric.purchasesFromClicksPromoted"], "note": "v1 page prints the v3 name as \"purchasesClicks\", without the 14d suffix"},
+ "sales14d": {"v1": ["metric.salesPromoted"], "note": "v1 page prints the v3 name as \"sales\", without the 14d suffix"},
+ "ROAS14d": {"v1": null, "note": "not seen under this v3 name (metric.roasPromoted prints v3 name \"roas\")"},
+ "dpv14d": {"v1": null, "note": "not seen under this v3 name (metric.detailPageViewsPromoted prints v3 name \"detailPageViews\")"},
+ "orderId": {"v1": ["campaign.id"]},
+ "lineItemId": {"v1": ["adGroup.id"]},
+ "creativeID": {"v1": ["ad.id"], "note": "prints v3 name \"creativeId\""},
+ "date": {"v1": ["date.value"], "note": "prints v3 name \"Date\""}
+}
